@@ -1,1 +1,1 @@
-# Custom_snesmini_Borders
+Hi! this is an early beta of something I've been working on, a plugin for hakchi that make adding custom borders to you snes mini easier, right now it only redirects folders via symbolic link in freebsd, which means after running my code you can just add your custom borders to the /usr/shared/backgrounds and they will show up.
